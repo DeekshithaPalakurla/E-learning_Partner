@@ -1,0 +1,12 @@
+pdfplumber
+spacy
+nltk
+transformers
+scikit-learn
+tensorflow
+tf-keras
+PyPDF2
+flask
+fitz
+sumy
+tools
